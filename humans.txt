@@ -1,0 +1,10 @@
+/* TEAM */
+Vinicius Vollrath, Terra Digital
+
+/* THANKS */
+To everyone who has contributed to Terra Digital!
+
+/* SITE */
+Standards: HTML5, CSS3
+Components: Jquery, Bootstramp
+Software: Google App Engine
