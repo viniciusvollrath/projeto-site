@@ -5,4 +5,6 @@ Arquivos para criar site estático no Google App Engine (GAE)
 
 Aplicação rodando em: http://projeto-site.appspot.com/
 
-Um oferecimento: <strong>Terra Digital</strong> | http://terradigital.com.br/
+O template HTML Spirit8 - http://themeforces.com/item/free-spirit8-html/ - é baseado no framework HTML Bootstrap. O código foi desenvolvido por Jenn Pereira e o design de Robert Berki. 
+
+<strong>Terra Digital</strong> | http://terradigital.com.br/
